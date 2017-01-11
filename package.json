@@ -1,0 +1,29 @@
+{
+  "name": "serialwriter",
+  "version": "1.0.2",
+  "description": "Reads from the serial port that the arduino is using, and writes that out to a file.",
+  "main": "serialWriter.js",
+  "scripts": {
+    "help": "cat help.txt",
+    "write": "echo \"WOW you're reading a serial line now.\"",
+    "start": "node serialWriter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azjkjensen/nuSkin.git"
+  },
+  "author": "Jk Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azjkjensen/nuSkin/issues"
+  },
+  "homepage": "https://github.com/azjkjensen/nuSkin#readme",
+  "dependencies": {
+    "serialport": "^4.0.3",
+    "write": "^0.3.2"
+  },
+  "devDependencies": {
+    "readline": "^1.3.0"
+  }
+}
