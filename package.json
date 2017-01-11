@@ -1,6 +1,6 @@
 {
   "name": "serialwriter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Reads from the serial port that the arduino is using, and writes that out to a file.",
   "main": "serialWriter.js",
   "scripts": {
