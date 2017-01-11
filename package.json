@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azjkjensen/nuSkin.git"
+    "url": "git+https://github.com/azjkjensen/serialwriter.git"
   },
   "author": "Jk Jensen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/azjkjensen/nuSkin/issues"
+    "url": "https://github.com/azjkjensen/serialwriter/issues"
   },
-  "homepage": "https://github.com/azjkjensen/nuSkin#readme",
+  "homepage": "https://github.com/azjkjensen/serialwriter#readme",
   "dependencies": {
     "serialport": "^4.0.3",
     "write": "^0.3.2"
